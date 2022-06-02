@@ -1,3 +1,3 @@
-#Simple Only CSS Slider Project
+#My Google Maps Demo
 
-https://codepen.io/JustAlbertCode/pen/dydmjwq?editors=0110
+https://codepen.io/JustAlbertCode/pen/bGLMqdN
